@@ -35,6 +35,7 @@ public class Boot3InitDemoApplication {
 
         Car bean = ioc.getBean(Car.class);
         System.out.println("bean = " + bean);
+        // -----------------------------------------------
 
     }
 
